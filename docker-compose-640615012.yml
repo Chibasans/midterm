@@ -1,0 +1,7 @@
+version: '1.0'
+
+services:
+  web:
+    image: chinnawat/page:midterm
+    ports:
+      - 8012:8012
